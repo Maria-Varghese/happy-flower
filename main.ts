@@ -1,5 +1,5 @@
 let projectile: Sprite = null
-scene.setBackgroundColor(9)
+scene.setBackgroundColor(1)
 let mySprite = sprites.create(img`
     ....................
     ....................
